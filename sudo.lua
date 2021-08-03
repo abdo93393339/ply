@@ -1,0 +1,5 @@
+token = "1890929894:AAHa9xxXA-t8OOxR7EFK6mxy9gxfP6Lua3Q"
+
+Sudo = 1340195401  
+
+UserName = "@AFROTO8"
